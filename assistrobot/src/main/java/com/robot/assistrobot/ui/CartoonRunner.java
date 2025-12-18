@@ -1,4 +1,4 @@
-package com.robot.assistrobot.Ui;
+package com.robot.assistrobot.ui;
 
 import javax.swing.*;
 import java.awt.*;
