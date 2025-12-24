@@ -17,7 +17,7 @@ public class CartoonRunner extends JFrame {
         setLayout(null);
 
         ImageIcon icon = new ImageIcon(
-            getClass().getResource("/images/cat.png")
+            getClass().getResource("/images/CatSlimeIdle.png")
         );
 
         JLabel label = new JLabel(icon);
